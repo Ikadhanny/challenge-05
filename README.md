@@ -1,4 +1,4 @@
 # challenge-05
 
 
-Database
+Express.Js, RESTful API, Database, SQL, ORM
